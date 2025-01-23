@@ -1,0 +1,31 @@
+
+
+.containerUseContext{
+    width:30vw;
+    min-height: fit-content;
+    padding:10px;
+    margin:5px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    border:1px solid black;
+    gap:10px;
+}
+
+
+.panel-dark{
+    background-color: hsla(120, 3%, 14%, 0.89);
+    color:hsl(120, 2%, 88%);
+}
+.panel-light{
+    background-color: hsla(0, 0%, 100%, 0.941);
+    color:hsla(120, 7%, 11%, 0.966);
+}
+.button-dark{
+    background-color: hsla(120, 3%, 14%, 0.89);
+    color:hsl(120, 2%, 88%);
+}
+.button-light{
+    background-color: hsla(0, 0%, 100%, 0.941);
+    color:hsla(120, 7%, 11%, 0.966);
+}
